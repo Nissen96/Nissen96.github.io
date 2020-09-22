@@ -1,0 +1,19 @@
+= Nissen96 Homepage
+
+== Project setup
+
+=== Install dependencies
+[source]
+npm install
+
+=== Serve with hot reload at localhost:3000
+[source]
+npm run dev
+
+=== Build for production and export app to static HTML
+[source]
+npm run generate
+
+=== Serve static application
+[source]
+npm run serve

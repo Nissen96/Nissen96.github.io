@@ -1,14 +1,11 @@
 <template>
   <v-row class="text-center">
-    <v-col>
-      Welcome
-    </v-col>
+    <v-col> Welcome </v-col>
   </v-row>
 </template>
 
 <script>
-
 export default {
-  name: 'Home',
+  name: "Home",
 }
 </script>

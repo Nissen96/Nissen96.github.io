@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/easyGraph", {data:[],fetch:[],mutations:void 0});

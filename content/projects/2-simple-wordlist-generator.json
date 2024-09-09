@@ -1,0 +1,7 @@
+{
+  "name": "Simple Wordlist Generator",
+  "url": "https://github.com/Nissen96/Simple-Wordlist-Generator",
+  "description": "Generate a wordlist from one or more input wordlists, creating each possible combination. Supports optional prefix, suffix, and delimiter(s)",
+  "icon": "lucide:whole-word",
+  "featured": false
+}

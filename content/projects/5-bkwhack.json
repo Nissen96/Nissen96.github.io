@@ -1,0 +1,7 @@
+{
+  "name": "bkwhack",
+  "url": "https://github.com/Brunnerne/bkwhack",
+  "description": "Automated helper tool for bkcrack, detects known file types and cracks based on file signatures. Designed with team Brunnerne",
+  "icon": "ph:file-zip-bold",
+  "featured": false
+}

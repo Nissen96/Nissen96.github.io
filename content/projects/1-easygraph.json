@@ -1,0 +1,7 @@
+{
+  "name": "easyGraph",
+  "url": "https://github.com/Nissen96/easyGraph",
+  "description": "Easy to use graph designer with support for undirected and directed graphs, as well as Finite State Machines",
+  "icon": "ph:graph-bold",
+  "featured": false
+}

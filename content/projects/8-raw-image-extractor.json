@@ -1,0 +1,7 @@
+{
+  "name": "Raw Image Extractor",
+  "url": "https://github.com/Nissen96/Raw-Image-Extractor",
+  "description": "Script for extracting and visualizing raw image data from binary files.",
+  "icon": "uil:image-search",
+  "featured": true
+}

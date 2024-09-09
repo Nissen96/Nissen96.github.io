@@ -1,0 +1,7 @@
+{
+  "name": "CipherSniffer",
+  "url": "https://github.com/Nissen96/CipherSniffer",
+  "description": "CipherSniffer helps automate the process of identifying cryptographic algorithms in binary files",
+  "icon": "ph:dog-fill",
+  "featured": true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "RAIDmount",
+  "url": "https://github.com/Nissen96/RAIDmount",
+  "description": "Bash script to easily mount a RAID array at a given mountpoint with any supported level and amount of missing disks",
+  "icon": "uil:servers",
+  "featured": false
+}

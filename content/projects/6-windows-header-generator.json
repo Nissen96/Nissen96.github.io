@@ -1,0 +1,7 @@
+{
+  "name": "WindowsHeaderGenerator",
+  "url": "https://github.com/Nissen96/WindowsHeaderGenerator",
+  "description": "Script for generating a C header file for a Windows kernel type using the Vergilius Project",
+  "icon": "ph:windows-logo-fill",
+  "featured": false
+}

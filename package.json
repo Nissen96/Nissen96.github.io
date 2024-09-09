@@ -1,30 +1,35 @@
 {
-  "name": "homepage",
-  "version": "0.0.1",
+  "name": "nuxt-app",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start",
+    "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "lint:js": "eslint --ext .js,.vue --ignore-path .gitignore .",
-    "lint": "npm run lint:js"
-  },
-  "dependencies": {
-    "nuxt": "^3.12.4"
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@nuxt/types": "^2.17.1",
-    "@nuxtjs/eslint-config": "^3.1.0",
-    "@nuxtjs/eslint-module": "^2.0.0",
-    "@nuxtjs/router-extras": "^1.1.0",
-    "@nuxtjs/vuetify": "^1.11.2",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^7.9.0",
-    "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-nuxt": "^1.0.0",
-    "eslint-plugin-prettier": "^3.1.4",
-    "prettier": "^2.1.2",
-    "vuetify": "^2.6.10"
-  }
+    "@iconify-json/lucide": "^1.2.2",
+    "@iconify-json/mdi": "^1.2.0",
+    "@iconify-json/ph": "^1.2.0",
+    "@iconify-json/uil": "^1.2.0",
+    "@nuxt/content": "^2.13.2",
+    "@nuxt/devtools": "^1.4.1",
+    "@nuxt/icon": "^1.5.0",
+    "@nuxthq/studio": "^2.0.3",
+    "@nuxtjs/fontaine": "^0.4.3",
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "nuxt": "^3.13.0",
+    "prettier": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.6.6",
+    "yarn-upgrade-all": "^0.7.4"
+  },
+  "dependencies": {
+    "@nuxt/image": "^1.8.0",
+    "@nuxt/ui": "^2.18.4",
+    "vite": "^5.4.2",
+    "vue": "^3.4.38",
+    "vue-use-fixed-header": "^2.0.3"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }

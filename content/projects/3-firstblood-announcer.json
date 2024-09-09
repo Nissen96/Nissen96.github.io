@@ -1,0 +1,7 @@
+{
+  "name": "CTFd First Blood Announcer",
+  "url": "https://github.com/Nissen96/First-Blood-Announcer",
+  "description": "Continually monitor a CTFd instance and announce first bloods to a Discord channel via webhook",
+  "icon": "mdi:blood-alert",
+  "featured": false
+}

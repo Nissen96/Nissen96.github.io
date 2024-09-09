@@ -1,0 +1,7 @@
+{
+  "name": "USB HID Decoders",
+  "url": "https://github.com/Nissen96/USB-HID-decoders",
+  "description": "Decoders and visualizers for various Human Interface Devices (HIDs). Supports keyboard, mouse, and tablet data",
+  "icon": "mdi:usb",
+  "featured": true
+}

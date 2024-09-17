@@ -27,7 +27,7 @@
   "dependencies": {
     "@nuxt/image": "^1.8.0",
     "@nuxt/ui": "^2.18.4",
-    "vite": "^5.4.2",
+    "vite": "^5.4.6",
     "vue": "^3.4.38",
     "vue-use-fixed-header": "^2.0.3"
   },
